@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&family=Raleway:ital,wght@0,200;0,300;1,100;1,200;1,300&display=swap');
+
+
+
+.btnatc {
+    margin-right: 5%; 
+    margin-top: 10px;
+    float: right;
+} 
+
+.btnprof {
+    margin-left: 5%; 
+    margin-top: 10px;
+    float: left;
+}
+
+.pheader {
+    font-family: 'Lobster Two', cursive;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.divbg {
+    height: 100%;
+}
+
+.btnicon {
+    width: 40px; height: 40px;
+}
+
+.products {
+    width: 80%;
+    margin: auto;
+    padding: 1%;
+    text-align: center;
+    
+}
+
+.productimg { 
+    width: 100px; 
+    height: 100px; 
+}
+
